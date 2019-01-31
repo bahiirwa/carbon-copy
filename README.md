@@ -10,7 +10,7 @@ Copy posts, pages, and custom post types with a single click – including taxon
 
 # Settings
 
-There are no settings. Yet! There's a lot of room for suggestions here, so, havve at it!
+There are no settings. Yet! There's a lot of room for suggestions here, so, have at it!
 
 # Usage
 
