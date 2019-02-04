@@ -18,5 +18,8 @@ Visit your admin page for posts, pages, or custom post types and hover any row â
 Clicking the link will copy the item, its taxonomy data, its metadata and whisk you off to the new item's edit screen. Here's a 
 mockup of how it looks when you hover the row.
 
+![Downloads](https://img.shields.io/github/downloads/johnalarcon/carbon-copy/total.svg)
+
 ![One-Click Duplcation](https://static.codepotent.com/images/github/carbon-copy/carbon-copy-mockup.png)
+
 
